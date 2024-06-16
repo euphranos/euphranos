@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Flutter, Node.js, Javascript**
 
-- 📫 How to reach me **euphranos238@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
