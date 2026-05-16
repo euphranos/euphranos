@@ -94,10 +94,28 @@ passion : Clean code, great UX, scalable architecture
 
 ---
 
-## 📈 Contribution Graph
+## 😄 Random Dev Joke
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euphranos&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🧠  I think in Flutter widgets and Node.js callbacks    ║
+║  ☕  Powered by coffee and curiosity                      ║
+║  🐛  "It works on my machine" — said every dev ever      ║
+║  🎯  Clean code > Clever code                            ║
+║  🌙  Best ideas come at 2 AM                             ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
